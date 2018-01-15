@@ -10,5 +10,3 @@ description: >-
 type: raw bar
 price: 24
 ---
-
-
