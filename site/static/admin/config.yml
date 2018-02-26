@@ -1,7 +1,5 @@
 backend:
-  name: github
-  repo: logictive/hugo-restaurant-tutorial
-  branch: master
+  name: git-gateway
 
 media_folder: "src/img/gallery" # Folder where user uploaded files should go
 public_folder: "img/gallery"
