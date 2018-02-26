@@ -6,16 +6,22 @@ title = "Tasty Licks"
   description = "An example website for restaurants."
 
 [[menu.main]]
-  name = "About"
-  url  = "/about"
-  weight = 1
-
+    name = "Food"
+    url  = "/food"
+    weight = 1
 [[menu.main]]
-  name = "Food"
-  url = "/food"
-  weight = 2
-
+    name = "Drinks"
+    url  = "/drinks"
+    weight = 2
 [[menu.main]]
-   name = "Drinks"
-   url  = "/drinks"
-   weight = 3
+    name = "About"
+    url  = "/about"
+    weight = 3
+[[menu.main]]
+    name = "Gallery"
+    url  = "/gallery"
+    weight = 4
+[[menu.main]]
+    name = "Make A Reservation"
+    url  = "/contact"
+    weight = 5
